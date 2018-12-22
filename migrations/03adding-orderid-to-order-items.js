@@ -7,7 +7,6 @@ module.exports = {
       'order_id', // column being created
       {
         type: Sequelize.INTEGER,
-        allowNull: false,
         references: {
           model: 'orders', // table being refrenced
           key: 'id' // //primary key

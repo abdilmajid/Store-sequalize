@@ -14,11 +14,11 @@ module.exports = {
       products: {
         type: Sequelize.JSONB
       },
-      createdAt: {
+      created_at: {
         allowNull: false,
         type: Sequelize.DATE
       },
-      updatedAt: {
+      updated_at: {
         allowNull: false,
         type: Sequelize.DATE
       }
