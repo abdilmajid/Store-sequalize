@@ -11,8 +11,7 @@ module.exports = (sequelize, DataTypes) => {
   });
   product.associate = function(models) {
     // associations can be defined here
-    //product belongsTo order_items
-    // product.belongsTo(models.order_items);
+
   };
   return product;
 };

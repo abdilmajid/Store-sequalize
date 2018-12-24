@@ -9,8 +9,7 @@ module.exports = (sequelize, DataTypes) => {
   });
   order.associate = function(models) {
     // associations can be defined here
-    //order hasMany order_items
-    // order.hasMany(models.order_items);
+
   };
   return order;
 };
