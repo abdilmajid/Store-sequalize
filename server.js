@@ -45,6 +45,51 @@ app.use(router)
 // pr.product5.save().then(task => {
 //   console.log(task)
 // })
+// pr.product6.save().then(task => {
+//   console.log(task)
+// })
+// pr.product7.save().then(task => {
+//   console.log(task)
+// })
+// pr.product8.save().then(task => {
+//   console.log(task)
+// })
+// pr.product9.save().then(task => {
+//   console.log(task)
+// })
+// pr.product10.save().then(task => {
+//   console.log(task)
+// })
+// pr.product11.save().then(task => {
+//   console.log(task)
+// })
+// pr.product12.save().then(task => {
+//   console.log(task)
+// })
+// pr.product13.save().then(task => {
+//   console.log(task)
+// })
+// pr.product14.save().then(task => {
+//   console.log(task)
+// })
+// pr.product15.save().then(task => {
+//   console.log(task)
+// })
+// pr.product16.save().then(task => {
+//   console.log(task)
+// })
+// pr.product17.save().then(task => {
+//   console.log(task)
+// })
+// pr.product18.save().then(task => {
+//   console.log(task)
+// })
+// pr.product19.save().then(task => {
+//   console.log(task)
+// })
+// pr.product20.save().then(task => {
+//   console.log(task)
+// })
 
 
 
